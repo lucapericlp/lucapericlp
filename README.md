@@ -1,15 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 July 2023 - To: 29 July 2023
+From: 23 July 2023 - To: 30 July 2023
 
-Total Time: 8 hrs 36 mins
+Total Time: 8 hrs 12 mins
 
-Rust        7 hrs 2 mins    ████████████████████▒░░░░   81.82 %
-Markdown    1 hr 6 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.96 %
-TOML        22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
-gitignore   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-fish        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Rust        7 hrs 46 mins   ███████████████████████▓░   94.76 %
+Markdown    16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+TOML        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+gitignore   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 ```
 
 <!--END_SECTION:waka-->
