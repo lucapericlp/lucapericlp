@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 October 2023 - To: 31 October 2023
+From: 25 October 2023 - To: 01 November 2023
 
-Total Time: 31 mins
+Total Time: 4 hrs 1 min
 
-Lua             10 mins         ████████░░░░░░░░░░░░░░░░░   32.15 %
-INI             10 mins         ████████░░░░░░░░░░░░░░░░░   31.99 %
-gitignore       7 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.76 %
-fugitiveblame   2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
-Markdown        1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
+YAML            1 hr 23 mins    ████████▒░░░░░░░░░░░░░░░░   33.41 %
+Python          1 hr 11 mins    ███████▒░░░░░░░░░░░░░░░░░   28.69 %
+Rust            22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 %
+TOML            19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
+INI             12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
 ```
 
 <!--END_SECTION:waka-->
