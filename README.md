@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 December 2023 - To: 16 December 2023
+From: 11 December 2023 - To: 17 December 2023
 
-Total Time: 2 hrs 2 mins
+Total Time: 1 hr 59 mins
 
-Python       1 hr 19 mins    ███████████████░░░░░░░░░░   60.61 %
-Markdown     27 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.11 %
-Other        8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
-YAML         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
-CSV          4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+Python       1 hr 18 mins    ███████████████▒░░░░░░░░░   61.76 %
+Markdown     27 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.59 %
+Other        8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
+YAML         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+CSV          4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
 ```
 
 <!--END_SECTION:waka-->
