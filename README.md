@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 December 2023 - To: 03 January 2024
+From: 29 December 2023 - To: 04 January 2024
 
-Total Time: 3 hrs 49 mins
+Total Time: 2 hrs 46 mins
 
-Python       2 hrs 2 mins    █████████████▒░░░░░░░░░░░   53.49 %
-Text         46 mins         █████░░░░░░░░░░░░░░░░░░░░   20.43 %
-JavaScript   33 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.82 %
-Markdown     23 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 %
-TOML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Python       1 hr 16 mins    ███████████▓░░░░░░░░░░░░░   46.10 %
+Text         46 mins         ███████░░░░░░░░░░░░░░░░░░   27.79 %
+JavaScript   33 mins         █████░░░░░░░░░░░░░░░░░░░░   20.04 %
+Markdown     9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
