@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 January 2024 - To: 13 January 2024
+From: 08 January 2024 - To: 14 January 2024
 
-Total Time: 9 hrs
+Total Time: 5 hrs 48 mins
 
-Python          4 hrs 13 mins   ███████████▓░░░░░░░░░░░░░   46.70 %
-Go              3 hrs 47 mins   ██████████▒░░░░░░░░░░░░░░   41.90 %
-Markdown        21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
-YAML            11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-TOML            9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+Python          4 hrs 13 mins   ██████████████████▒░░░░░░   72.71 %
+Go              44 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.91 %
+Markdown        20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
+YAML            11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+TOML            9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
 ```
 
 <!--END_SECTION:waka-->
