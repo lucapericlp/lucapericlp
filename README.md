@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 February 2024 - To: 04 March 2024
+From: 28 February 2024 - To: 05 March 2024
 
-Total Time: 3 hrs 28 mins
+Total Time: 3 hrs
 
-Python          1 hr 25 mins    ██████████▒░░░░░░░░░░░░░░   40.79 %
-Bash            1 hr 21 mins    █████████▓░░░░░░░░░░░░░░░   38.79 %
-Markdown        25 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 %
-TOML            17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 %
-fugitiveblame   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Bash         1 hr 41 mins    ██████████████░░░░░░░░░░░   56.46 %
+Markdown     30 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.13 %
+Python       28 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.05 %
+TOML         17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
+JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
