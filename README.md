@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 March 2024 - To: 12 March 2024
+From: 07 March 2024 - To: 13 March 2024
 
-Total Time: 30 hrs 11 mins
+Total Time: 32 hrs 25 mins
 
-Python          25 hrs 45 mins  █████████████████████▒░░░   84.98 %
-Markdown        1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
-CSV             58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
-TOML            52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
-Docker          50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+Python          27 hrs 9 mins   █████████████████████░░░░   83.71 %
+Markdown        2 hrs 20 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
+CSV             59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+TOML            58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+Docker          50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
 ```
 
 <!--END_SECTION:waka-->
