@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 June 2024 - To: 20 June 2024
+From: 14 June 2024 - To: 21 June 2024
 
-Total Time: 42 hrs 58 mins
+Total Time: 37 hrs 31 mins
 
-Python          39 hrs 42 mins  ███████████████████████░░   92.23 %
-Terraform       1 hr 15 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
-JavaScript      1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
-Text            30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-Markdown        14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Python          35 hrs 46 mins  ████████████████████████░   95.34 %
+Markdown        52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+Text            30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+JavaScript      19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+CSV             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
