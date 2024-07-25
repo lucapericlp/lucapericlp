@@ -1,13 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 July 2024 - To: 22 July 2024
+From: 17 July 2024 - To: 24 July 2024
 
-Total Time: 3 hrs 46 mins
+Total Time: 10 hrs 47 mins
 
-Python     3 hrs 14 mins   █████████████████████▓░░░   86.14 %
-Markdown   16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
-JSON       14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
+Python      8 hrs 38 mins   ████████████████████░░░░░   80.16 %
+Terraform   1 hr 21 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.60 %
+Markdown    29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
+JSON        14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
+gitignore   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
