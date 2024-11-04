@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 October 2024 - To: 01 November 2024
+From: 28 October 2024 - To: 03 November 2024
 
-Total Time: 32 hrs 15 mins
+Total Time: 28 hrs 43 mins
 
-Python          26 hrs 4 mins   ████████████████████▒░░░░   80.76 %
-Terraform       3 hrs 22 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 %
-YAML            1 hr 29 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
-Text            36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-fish            15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Python          22 hrs 47 mins  ███████████████████▓░░░░░   79.23 %
+Terraform       3 hrs 13 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.18 %
+YAML            1 hr 52 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
+Text            20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+fish            15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
 ```
 
 <!--END_SECTION:waka-->
