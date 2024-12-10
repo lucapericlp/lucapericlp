@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 December 2024 - To: 07 December 2024
+From: 02 December 2024 - To: 08 December 2024
 
-Total Time: 16 hrs 34 mins
+Total Time: 17 hrs 54 mins
 
-Python      11 hrs 21 mins  █████████████████░░░░░░░░   68.52 %
-YAML        3 hrs 9 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.02 %
-Terraform   1 hr 35 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 %
-sshconfig   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-Markdown    10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+Python      12 hrs 11 mins  █████████████████░░░░░░░░   68.03 %
+YAML        3 hrs 9 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.61 %
+Terraform   1 hr 35 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
+sshconfig   44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
+Markdown    10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 ```
 
 <!--END_SECTION:waka-->
