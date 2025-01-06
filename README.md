@@ -1,15 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 December 2024 - To: 03 January 2025
+From: 29 December 2024 - To: 04 January 2025
 
-Total Time: 1 hr 6 mins
+Total Time: 51 mins
 
-Python   40 mins         ███████████████░░░░░░░░░░   60.16 %
-fish     14 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.12 %
-JSON     11 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.94 %
-Bash     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Python   39 mins         ███████████████████▒░░░░░   76.85 %
+JSON     11 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.90 %
+Bash     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
 ```
 
 <!--END_SECTION:waka-->
