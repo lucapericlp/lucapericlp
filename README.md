@@ -1,13 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 December 2024 - To: 06 January 2025
+From: 01 January 2025 - To: 07 January 2025
 
-Total Time: 22 mins
+Total Time: 2 hrs 15 mins
 
-JSON   11 mins         ████████████▒░░░░░░░░░░░░   49.46 %
-fish   9 mins          ██████████▓░░░░░░░░░░░░░░   42.99 %
-Lua    1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
+Python     2 hrs 1 min     ██████████████████████▓░░   90.14 %
+fish       9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
+Lua        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
