@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 January 2025 - To: 04 February 2025
+From: 30 January 2025 - To: 05 February 2025
 
-Total Time: 17 hrs 27 mins
+Total Time: 13 hrs 50 mins
 
-Python          16 hrs 30 mins  ███████████████████████▓░   94.32 %
-sshconfig       29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
-Text            14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
-Markdown        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
-TOML            3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Python          12 hrs 48 mins  ███████████████████████░░   92.26 %
+Text            31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
+sshconfig       30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+Other           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+JSON            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
