@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 March 2025 - To: 29 March 2025
+From: 24 March 2025 - To: 30 March 2025
 
-Total Time: 15 hrs 11 mins
+Total Time: 15 hrs 31 mins
 
-Python        9 hrs 58 mins   ████████████████▒░░░░░░░░   65.60 %
-JSON          4 hrs 13 mins   ███████░░░░░░░░░░░░░░░░░░   27.73 %
-Markdown      20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-Lua           14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-ghostty       12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+Python        9 hrs 59 mins   ████████████████░░░░░░░░░   64.29 %
+JSON          4 hrs 13 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.16 %
+fish          19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+YAML          18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+Markdown      16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
 ```
 
 <!--END_SECTION:waka-->
