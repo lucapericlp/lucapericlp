@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 June 2025 - To: 22 June 2025
+From: 16 June 2025 - To: 23 June 2025
 
-Total Time: 21 hrs 42 mins
+Total Time: 19 hrs 3 mins
 
-Python      20 hrs 5 mins   ███████████████████████░░   92.59 %
-JSON        1 hr 25 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
-Markdown    4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-TOML        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-sshconfig   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Python      17 hrs 24 mins  ██████████████████████▓░░   91.31 %
+JSON        1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
+Markdown    5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+TOML        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+sshconfig   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
