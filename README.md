@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 September 2025 - To: 11 September 2025
+From: 05 September 2025 - To: 12 September 2025
 
-Total Time: 10 hrs 56 mins
+Total Time: 8 hrs 34 mins
 
-Python          7 hrs 57 mins   ██████████████████▒░░░░░░   72.68 %
-Bash            1 hr 55 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.52 %
-YAML            1 hr 1 min      ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 %
-Text            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-sshconfig       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Python          6 hrs 23 mins   ██████████████████▓░░░░░░   74.47 %
+Bash            1 hr 33 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.20 %
+YAML            34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
+Text            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+sshconfig       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
