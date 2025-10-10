@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2025 - To: 07 October 2025
+From: 01 October 2025 - To: 08 October 2025
 
-Total Time: 9 hrs 39 mins
+Total Time: 9 hrs 29 mins
 
-Python          6 hrs 5 mins    ███████████████▒░░░░░░░░░   61.92 %
-Bash            2 hrs 26 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.72 %
-YAML            29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
-fish            15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
-SSH Key         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+Python          5 hrs 53 mins   ███████████████▒░░░░░░░░░   60.91 %
+Bash            2 hrs 24 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.97 %
+YAML            28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
+SSH Key         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+fish            14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
 ```
 
 <!--END_SECTION:waka-->
