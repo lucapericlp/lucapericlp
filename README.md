@@ -1,11 +1,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 December 2025 - To: 05 January 2026
+From: 31 December 2025 - To: 06 January 2026
 
-Total Time: 0 secs
+Total Time: 3 hrs 35 mins
 
-No activity tracked
+Python     3 hrs 8 mins    ██████████████████████░░░   87.52 %
+Markdown   26 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 %
 ```
 
 <!--END_SECTION:waka-->
