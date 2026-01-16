@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 January 2026 - To: 13 January 2026
+From: 08 January 2026 - To: 14 January 2026
 
-Total Time: 37 mins
+Total Time: 26 mins
 
-Markdown        16 mins         ███████████▒░░░░░░░░░░░░░   44.70 %
-Python          9 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.37 %
-C               5 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.89 %
-Go              5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.47 %
-Other           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Markdown        12 mins         ███████████▒░░░░░░░░░░░░░   45.44 %
+Python          9 mins          ████████▓░░░░░░░░░░░░░░░░   34.95 %
+Go              5 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.17 %
+Mermaid         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+fugitiveblame   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
