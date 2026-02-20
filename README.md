@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 February 2026 - To: 17 February 2026
+From: 12 February 2026 - To: 18 February 2026
 
-Total Time: 2 hrs 6 mins
+Total Time: 1 hr 57 mins
 
-Python          40 mins               ████████░░░░░░░░░░░░░░░░░   32.47 %
-Markdown        27 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.97 %
-C               24 mins               █████░░░░░░░░░░░░░░░░░░░░   19.37 %
-Bash            13 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.99 %
-sshconfig       7 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
+Python          32 mins               ███████░░░░░░░░░░░░░░░░░░   27.68 %
+Markdown        27 mins               ██████░░░░░░░░░░░░░░░░░░░   23.53 %
+C               24 mins               █████▒░░░░░░░░░░░░░░░░░░░   20.74 %
+Bash            13 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.77 %
+sshconfig       7 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
 ```
 
 <!--END_SECTION:waka-->
