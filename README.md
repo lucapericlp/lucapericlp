@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 June 2026 - To: 08 June 2026
+From: 02 June 2026 - To: 09 June 2026
 
-Total Time: 17 hrs 12 mins
+Total Time: 20 hrs 41 mins
 
-YAML         3 hrs 48 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.87 %
-Markdown     2 hrs 59 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.40 %
-Rust         2 hrs 53 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.81 %
-Python       2 hrs 12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.10 %
-Terraform    1 hr 42 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 %
+YAML         5 hrs 37 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.23 %
+Rust         3 hrs 17 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.37 %
+Python       2 hrs 53 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.47 %
+Markdown     2 hrs 51 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.32 %
+Terraform    2 hrs 26 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
 ```
 
 <!--END_SECTION:waka-->
