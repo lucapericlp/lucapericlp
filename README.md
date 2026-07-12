@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 July 2026 - To: 09 July 2026
+From: 03 July 2026 - To: 10 July 2026
 
-Total Time: 6 hrs 39 mins
+Total Time: 3 hrs 44 mins
 
-YAML        2 hrs 43 mins         ██████████▒░░░░░░░░░░░░░░   40.97 %
-Markdown    2 hrs 25 mins         █████████░░░░░░░░░░░░░░░░   36.32 %
-Rust        39 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 %
-Terraform   17 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
-JSON        15 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+Markdown    2 hrs 12 mins         ██████████████▓░░░░░░░░░░   59.12 %
+Rust        28 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.70 %
+Terraform   17 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
+JSON        15 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
+YAML        13 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
 ```
 
 <!--END_SECTION:waka-->
